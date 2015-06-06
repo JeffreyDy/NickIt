@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doctor_specializations">
+        <item>All Specializations</item>
+        <item>Allergist</item>
+        <item>Anesthesiologist</item>
+        <item>Cardiologist</item>
+        <item>Dermatologist</item>
+        <item>Oncologist</item>
+        <item>Obstetrician</item>
+        <item>Ophthalmologist</item>
+        <item>Pediatrician</item>
+        <item>Plastic Surgeon </item>
+        <item>Rheumatologist</item>
+    </string-array>
+
+    <string-array name="doctor_name">
+        <item>Dr. A</item>
+        <item>Dr. B</item>
+        <item>Dr. C</item>
+        <item>Dr. D</item>
+        <item>Dr. E</item>
+        <item>Dr. F</item>
+        <item>Dr. G</item>
+        <item>Dr. H</item>
+        <item>Dr. I</item>
+        <item>Dr. J</item>
+        <item>Dr. K</item>
+        <item>Dr. L</item>
+        <item>Dr. M</item>
+        <item>Dr. N</item>
+        <item>Dr. O</item>
+    </string-array>
+    <string-array name="doctor_password">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <string-array name="doctor_specID">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>9</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="doctor_officehours">
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+        <item>Monday to Friday: 7:30am to 5:30pm</item>
+
+    </string-array>
+    <string-array name="doctor_location">
+        <item>Metroplitan Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+        <item>St. Lukes Medical Hospital</item>
+    </string-array>
+
+
+    <string-array name="user_name">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="user_password">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="timeSchedule">
+        <item>7:30 - 8:30</item>
+        <item>8:30 - 9:30</item>
+        <item>9:30 - 10:30</item>
+        <item>10:30 - 11:30</item>
+        <item>11:30 - 12:30</item>
+        <item>1:30 - 2:30</item>
+        <item>2:30 - 3:30</item>
+        <item>3:30 - 4:30</item>
+        <item>4:30 - 5:30</item>
+
+    </string-array>
+    <string-array name="NotifSched">
+        <item>One Hour Before</item>
+        <item>Two Hours Before</item>
+        <item>One Day Before</item>
+        <item>One Week Before</item>
+
+    </string-array>
+
+</resources>

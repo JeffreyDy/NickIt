@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nickit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user">UserActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_find_doctor">findDoctorActivity</string>
+    <string name="title_activity_fave_doctor">faveDoctorActivity</string>
+    <string name="title_activity_user_settings">userSettingsActivity</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_doctor_detail">DoctorDetailActivity</string>
+    <string name="title_activity_book_now">BookNow</string>
+    <string name="title_activity_doctor">DoctorActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_doc_notif">DocNotifActivity</string>
+    <string name="title_activity_setting_user">setting_userActivity</string>
+    <string name="title_activity_doc_confirmed">DocConfirmed</string>
+    <string name="title_activity_doctor_confirmed">DoctorConfirmed</string>
+
+</resources>
